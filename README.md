@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdweDd0dmRoeDVmY3hjcHQwcWRtNTg4Zml0Z3l5MnJtN25ndjgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="100px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdweDd0dmRoeDVmY3hjcHQwcWRtNTg4Zml0Z3l5MnJtN25ndjgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="100%">
 </p>
 
 ## 👋 안녕하세요, 프론트엔드 개발자 이동희입니다
